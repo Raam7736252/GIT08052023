@@ -1,4 +1,4 @@
-@Library('shared-library') _
+@Library('DevOps_Library@main') _
 node
 {
     Myfirstcode.groovy("Ram")
