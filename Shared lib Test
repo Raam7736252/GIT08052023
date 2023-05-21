@@ -1,0 +1,5 @@
+@Library('Shared-Libary@mail') _
+node
+{
+    Myfirstcode("Ram")
+}
