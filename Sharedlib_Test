@@ -1,4 +1,4 @@
-@Library('Shared-Libary@main') -
+@Library('Shared-Library@master') -
 node
 {
     Myfirstcode.groovy("Ram")
