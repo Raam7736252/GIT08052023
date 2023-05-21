@@ -1,5 +1,5 @@
 @Library('Shared-Libary@main') _
 node
 {
-    Myfirstcode("Ram")
+    Myfirstcode.groovy("Ram")
 }
